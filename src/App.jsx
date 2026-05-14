@@ -30,6 +30,7 @@ import ApiCalling from "./Project/ApiCalling"
 import { use } from "react"
 import MoviesCard from "./Project/MoviesCard"
 import BootStrap from "./component/BootStrap"
+import HookForm from "./component/HookForm"
 
 function Add() {
 
@@ -63,10 +64,14 @@ const[page,setpage]=useState("home");
         {page==="movies" && <ApiCalling/>}
       </div> */}
 
-        
+
+<ApiCalling/>
+        {/* <HookForm/> */}
       {/* <BootStrap/> */}
 
-      <ToDoList/>
+      {/* <ApiCal/> */}
+
+      {/* <ToDoList/> */}
       {/* <Navbar/> */}
       
       {/* {moviedata.map((dt)=>(
@@ -100,7 +105,7 @@ const[page,setpage]=useState("home");
 
     //       {/* <Listconcept/> */}
 
-    //       {/* <ApiCal/> */}
+          //  {/*  <ApiCal/> */}
 
     //       {/* <Link to="/">home</Link>
     //       <Link to="/product">product</Link>

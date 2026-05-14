@@ -10,7 +10,7 @@ export default function MoviesCard({ title, image, desc, rating }) {
             <img src={image} alt={title} />
             <h1>{title}</h1>
             <p>{desc}</p>
-            <a href="#">Read More...</a>
+            <a href="#">Read More...</a>    
             <p><FaStar />{rating}</p>
             <div className="button">
              <button>Download</button>
