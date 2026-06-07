@@ -36,7 +36,7 @@ import BillingJava from "./Project/BillingJava"
 import Calculator from "./practice/Calculator";
 import DigitalClock from "./practice/DigitalClock";
 import GreetingApp from "./practice/GreetingApp";
-
+import ToDo from "./practice/ToDo";
 import Search from "./practice/Search";
 import Password from "./practice/Password";
 import Accordion from "./practice/Accordion";
@@ -112,7 +112,9 @@ const[page,setpage]=useState("home");
         {/* <Accordion/> */}
         {/* <WeatherApp/> */}
         {/* <Pagination/> */}
-        <SearchMovie/>
+        {/* <SearchMovie/> */}
+        <ToDo/>
+
 
 
       </div>
