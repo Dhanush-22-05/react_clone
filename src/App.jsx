@@ -36,7 +36,7 @@ import BillingJava from "./Project/BillingJava"
 import Calculator from "./practice/Calculator";
 import DigitalClock from "./practice/DigitalClock";
 import GreetingApp from "./practice/GreetingApp";
-import ToDo from "./practice/todo";
+import ToDo from "./practice/Todo";
 import Search from "./practice/Search";
 import Password from "./practice/Password";
 import Accordion from "./practice/Accordion";
