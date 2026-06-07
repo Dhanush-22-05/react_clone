@@ -1,0 +1,184 @@
+{
+  "weather": [
+    {
+      "id": 1,
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "temperature": 32,
+      "humidity": 70,
+      "windSpeed": 12,
+      "condition": "Sunny"
+    },
+    {
+      "id": 2,
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "temperature": 28,
+      "humidity": 65,
+      "windSpeed": 10,
+      "condition": "Cloudy"
+    },
+    {
+      "id": 3,
+      "city": "Madurai",
+      "state": "Tamil Nadu",
+      "temperature": 34,
+      "humidity": 60,
+      "windSpeed": 8,
+      "condition": "Sunny"
+    },
+    {
+      "id": 4,
+      "city": "Trichy",
+      "state": "Tamil Nadu",
+      "temperature": 31,
+      "humidity": 68,
+      "windSpeed": 9,
+      "condition": "Partly Cloudy"
+    },
+    {
+      "id": 5,
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "temperature": 30,
+      "humidity": 66,
+      "windSpeed": 7,
+      "condition": "Sunny"
+    },
+    {
+      "id": 6,
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "temperature": 27,
+      "humidity": 62,
+      "windSpeed": 11,
+      "condition": "Cloudy"
+    },
+    {
+      "id": 7,
+      "city": "Mysore",
+      "state": "Karnataka",
+      "temperature": 26,
+      "humidity": 64,
+      "windSpeed": 8,
+      "condition": "Cloudy"
+    },
+    {
+      "id": 8,
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "temperature": 33,
+      "humidity": 55,
+      "windSpeed": 10,
+      "condition": "Sunny"
+    },
+    {
+      "id": 9,
+      "city": "Warangal",
+      "state": "Telangana",
+      "temperature": 32,
+      "humidity": 58,
+      "windSpeed": 9,
+      "condition": "Sunny"
+    },
+    {
+      "id": 10,
+      "city": "Vijayawada",
+      "state": "Andhra Pradesh",
+      "temperature": 34,
+      "humidity": 72,
+      "windSpeed": 13,
+      "condition": "Rainy"
+    },
+    {
+      "id": 11,
+      "city": "Visakhapatnam",
+      "state": "Andhra Pradesh",
+      "temperature": 30,
+      "humidity": 78,
+      "windSpeed": 15,
+      "condition": "Rainy"
+    },
+    {
+      "id": 12,
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "temperature": 29,
+      "humidity": 82,
+      "windSpeed": 18,
+      "condition": "Rainy"
+    },
+    {
+      "id": 13,
+      "city": "Pune",
+      "state": "Maharashtra",
+      "temperature": 27,
+      "humidity": 70,
+      "windSpeed": 10,
+      "condition": "Cloudy"
+    },
+    {
+      "id": 14,
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "temperature": 35,
+      "humidity": 52,
+      "windSpeed": 8,
+      "condition": "Sunny"
+    },
+    {
+      "id": 15,
+      "city": "Delhi",
+      "state": "Delhi",
+      "temperature": 37,
+      "humidity": 45,
+      "windSpeed": 12,
+      "condition": "Sunny"
+    },
+    {
+      "id": 16,
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "temperature": 36,
+      "humidity": 48,
+      "windSpeed": 11,
+      "condition": "Sunny"
+    },
+    {
+      "id": 17,
+      "city": "Gurugram",
+      "state": "Haryana",
+      "temperature": 36,
+      "humidity": 47,
+      "windSpeed": 10,
+      "condition": "Sunny"
+    },
+    {
+      "id": 18,
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "temperature": 31,
+      "humidity": 84,
+      "windSpeed": 14,
+      "condition": "Rainy"
+    },
+    {
+      "id": 19,
+      "city": "Howrah",
+      "state": "West Bengal",
+      "temperature": 30,
+      "humidity": 82,
+      "windSpeed": 13,
+      "condition": "Rainy"
+    },
+    {
+      "id": 20,
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "temperature": 39,
+      "humidity": 35,
+      "windSpeed": 9,
+      "condition": "Sunny"
+    }
+  ]
+}

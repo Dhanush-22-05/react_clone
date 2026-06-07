@@ -1,0 +1,38 @@
+.container{
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #f1ebeb;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    color: darkblue;
+}
+
+label{
+    font-weight: bold;
+}
+
+input{
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+button{
+    padding: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.bill{
+    margin-top: 20px;
+}

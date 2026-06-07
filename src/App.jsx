@@ -1,4 +1,5 @@
 import MovieView from "./component/MoviesView"
+import "./Project/BillingJava.css";
 import "./App.css"
 import "./Navbar.css"
 import Counter from "./component/Counter"
@@ -31,6 +32,17 @@ import { use } from "react"
 import MoviesCard from "./Project/MoviesCard"
 import BootStrap from "./component/BootStrap"
 import HookForm from "./component/HookForm"
+import BillingJava from "./Project/BillingJava"
+import Calculator from "./practice/Calculator";
+import DigitalClock from "./practice/DigitalClock";
+import GreetingApp from "./practice/GreetingApp";
+import ToDo from "./practice/todo";
+import Search from "./practice/Search";
+import Password from "./practice/Password";
+import Accordion from "./practice/Accordion";
+import WeatherApp from "./practice/WeatherApp";
+import Pagination from "./practice/Pagination";
+import SearchMovie from "./practice/SearchMovie";
 
 function Add() {
 
@@ -65,7 +77,7 @@ const[page,setpage]=useState("home");
       </div> */}
 
 
-<ApiCalling/>
+{/* <ApiCalling/> */}
         {/* <HookForm/> */}
       {/* <BootStrap/> */}
 
@@ -80,7 +92,31 @@ const[page,setpage]=useState("home");
       {/* <CounterProvider>
   <Counter/>
   </CounterProvider> */}
+     <div>
+    {/* <Bhuvi/> */}
+    {/* <ApiCall/> */}
+    {/* <ColorChanger/> */}
+    {/* <HideText/> */}
+    {/* <Count/> */}
+    {/* <ToDoList/> */}
+    {/* <BillingJava/> */}
 
+     </div>
+      {/* practice react */}
+      <div>
+        {/* <Calculator/> */}
+        {/* <DigitalClock/> */}
+        {/* <GreetingApp/> */}
+        {/* <ToDo/> */}
+        {/* <Search/> */}
+        {/* <Password/> */}
+        {/* <Accordion/> */}
+        {/* <WeatherApp/> */}
+        {/* <Pagination/> */}
+        <SearchMovie/>
+
+
+      </div>
     </div>
     //     <BrowserRouter>
     //       {/* <h1 >DHANUSH</h1>
@@ -91,7 +127,7 @@ const[page,setpage]=useState("home");
 
     //       {/* <Kit/> */}
 
-    //       {/* <Bhuvi/> */}
+          //  <Bhuvi/>
 
     //       {/* {islog?<LifeCycle/>:"u need to login"}
 

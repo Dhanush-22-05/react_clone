@@ -8,7 +8,7 @@ const[count,setcount]=useState(0)
 
 useEffect (()=>{
     handlefetch()
-},[count])
+},[count]) //runs one time
 
     const handlefetch =async()=>{
         let datas=await fetch("https://fakestoreapi.com/products")
